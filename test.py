@@ -1,0 +1,5 @@
+print("A"+"bc")
+# print("GFG"+1+2+3)
+print('geeksforgeeks'.lstrip('geeks'))
+print('geeksforgeeks'.split('ee'))
+print('geeksforgeeks'.split('ee',1))
